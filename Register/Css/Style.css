@@ -1,0 +1,32 @@
+
+form input::placeholder {
+
+    font-size: 20px;
+
+}
+
+#hr1 {
+
+    width: 170px;
+    position: relative;
+    right: 115px;
+    top: 23px;
+}
+#or {
+
+    color: #8f8f8f;
+    position: relative;
+    bottom: 10px;
+    left: 305px;
+    font-family: apple-system,BlinkMacSystemFont,"Segoe";
+    font-size: 20px;
+
+}
+#hr2 {
+
+    position: relative;
+    width: 170px;
+    bottom: 42px;
+    left: 155px;
+    
+}
